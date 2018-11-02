@@ -18,24 +18,20 @@ public class Calculator {
         //Add constructor here
     }
     
-    public float plus(){
-        return 0;
-        
+    public float plus(float a, float b){
+        return 0;   
     }
-    public float minus(){
-        return 0;
-        
+    public float minus(float a, float b){
+        return 0;    
     }
     
     //Firman yang edit
     public float multiplication(float a,float b){
-        return a*b;
-        
+        return a*b;    
     }
     
-    public float division(){
-        return 0;
-        
+    public float division(float a,float b){
+        return 0;    
     }
     
     
