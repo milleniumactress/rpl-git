@@ -18,21 +18,21 @@ public class Calculator {
         // TODO code application logic here
     }
     
-    public float plus(){
+    public float plus(float a, float b){
         return 0;
         
     }
-    public float minus(){
-        return 0;
-        
-    }
-    
-    public float multiplication(){
+    public float minus(float a, float b){
         return 0;
         
     }
     
-    public float division(){
+    public float multiplication(float a, float b){
+        return 0;
+        
+    }
+    
+    public float division(float a,float b){
         return 0;
         
     }
