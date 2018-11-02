@@ -27,8 +27,9 @@ public class Calculator {
         
     }
     
-    public float multiplication(){
-        return 0;
+    //Firman yang edit
+    public float multiplication(float a,float b){
+        return a*b;
         
     }
     
