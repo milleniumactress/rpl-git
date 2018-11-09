@@ -27,7 +27,13 @@ public class Kalkulator {
     }
     
     public float division(float a,float b){
-        
-        
+        return a/b;
     }
+	
+	public float max(float a,float b){
+		return Math.max(a,b);
+	}
+	
+	public float min(float a,float b){
+		return Math.min(a,b);
 }
